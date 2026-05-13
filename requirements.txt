@@ -1,0 +1,25 @@
+# Core ML/NLP Libraries
+torch==2.0.1
+transformers==4.36.0
+sentence-transformers==2.2.2
+numpy==1.24.3
+pandas==1.5.3
+
+# Vector Database
+chromadb==0.4.10
+
+# LLM - Mistral Local
+mistral==0.2.0
+
+# MT Evaluation
+sacrebleu==2.3.1
+nltk==3.8.1
+
+# NLP Processing
+spacy==3.7.2
+python-dotenv==1.0.0
+
+# Utilities
+tqdm==4.66.1
+click==8.1.7
+pyyaml==6.0.1

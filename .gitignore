@@ -1,0 +1,18 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# ChromaDB (büyük vektör veritabanı)
+data/embeddings/
+
+# Model cache (çok büyük)
+~/.cache/huggingface/
+
+# IDE
+.vscode/
+.idea/
+
+# Claude settings
+.claude/

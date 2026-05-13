@@ -1,0 +1,8 @@
+{
+  "rag_bleu": 78.44,
+  "baseline_bleu": 14.07,
+  "bleu_improvement": 64.36,
+  "rag_term_precision": 80.0,
+  "baseline_term_precision": 0.0,
+  "term_improvement": 80.0
+}
